@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+    
+    <!-- Background Circle -->
+    <path
+        android:fillColor="#0A3D52"
+        android:pathData="M100,100m-90,0a90,90 0,1 1,180 0a90,90 0,1 1,-180 0" />
+    
+    <!-- Clothes Hanger Hook -->
+    <path
+        android:strokeColor="#00E5B4"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M100,40 Q105,35 105,30 Q105,25 100,25 Q95,25 95,30 Q95,35 100,40" />
+    
+    <!-- Hanger Bar -->
+    <path
+        android:strokeColor="#00E5B4"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M100,40 L100,48" />
+    
+    <!-- T-Shirt Outline -->
+    <!-- Neckline -->
+    <path
+        android:strokeColor="#00E5B4"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M80,58 Q85,52 100,52 Q115,52 120,58" />
+    
+    <!-- Left Sleeve -->
+    <path
+        android:strokeColor="#00E5B4"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M58,65 L58,85 L68,80 L70,62 L80,58" />
+    
+    <!-- Right Sleeve -->
+    <path
+        android:strokeColor="#00E5B4"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M120,58 L130,62 L132,80 L142,85 L142,65" />
+    
+    <!-- Shirt Body -->
+    <path
+        android:strokeColor="#00E5B4"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M68,62 L68,105 L132,105 L132,62" />
+    
+    <!-- Shirt Pocket -->
+    <path
+        android:strokeColor="#00E5B4"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M108,75 L108,90 L128,90 L128,75 Z" />
+    
+    <!-- Pants Left Leg -->
+    <path
+        android:strokeColor="#00E5B4"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M72,110 L72,160 L90,160 L95,110 Z" />
+    
+    <!-- Pants Right Leg -->
+    <path
+        android:strokeColor="#00E5B4"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M105,110 L110,160 L128,160 L128,110 Z" />
+    
+    <!-- Pants Waistband -->
+    <path
+        android:strokeColor="#00E5B4"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M72,110 L128,110" />
+</vector>
+
+

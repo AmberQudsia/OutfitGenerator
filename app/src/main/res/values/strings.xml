@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">Outfit Matcher</string>
+    
+    <!-- Login Screen -->
+    <string name="login_title">Welcome Back!</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="register_link">Register</string>
+    
+    <!-- Registration Screen -->
+    <string name="register_title">Create Account</string>
+    <string name="full_name_hint">Full Name</string>
+    <string name="email_hint">Email Address</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="register_button">Register</string>
+    <string name="have_account">Already have an account?</string>
+    <string name="login_link">Login</string>
+    
+    <!-- Forgot Password Screen -->
+    <string name="forgot_password_title">Forgot Password</string>
+    <string name="forgot_password_desc">Enter your email to reset password</string>
+    <string name="send_reset_link">Send Reset Link</string>
+    <string name="back_to_login">Back to Login</string>
+    
+    <!-- Reset Password Screen -->
+    <string name="reset_password_title">Reset Password</string>
+    <string name="new_password_hint">New Password</string>
+    <string name="confirm_new_password_hint">Confirm New Password</string>
+    <string name="reset_button">Reset Password</string>
+    
+    <!-- Home Screen -->
+    <string name="home_title">Outfit Matcher</string>
+    <string name="welcome_message">Welcome to your AI Fashion Stylist!</string>
+    <string name="upload_clothes">Upload Clothes</string>
+    <string name="my_wardrobe">My Wardrobe</string>
+    <string name="get_suggestions">Get Outfit Suggestions</string>
+    <string name="logout">Logout</string>
+    
+    <!-- Validation Messages -->
+    <string name="error_empty_username">Please enter username</string>
+    <string name="error_empty_password">Please enter password</string>
+    <string name="error_empty_email">Please enter email</string>
+    <string name="error_invalid_email">Please enter a valid email</string>
+    <string name="error_empty_full_name">Please enter your name</string>
+    <string name="error_password_mismatch">Passwords do not match</string>
+    <string name="error_password_length">Password must be at least 6 characters</string>
+    <string name="error_invalid_credentials">Invalid username or password</string>
+    <string name="success_registration">Registration successful!</string>
+    <string name="success_password_reset">Password reset successful!</string>
+    <string name="success_reset_link_sent">Reset link sent to your email!</string>
+    
+    <!-- Upload Clothes Screen -->
+    <string name="upload_title">Add Clothing Item</string>
+    <string name="item_name_hint">Item Name (e.g., Blue Shirt)</string>
+    <string name="select_category">Select Category</string>
+    <string name="select_color">Select Color</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="from_gallery">From Gallery</string>
+    <string name="save_item">Save Item</string>
+    <string name="error_empty_item_name">Please enter item name</string>
+    <string name="error_no_image">Please select an image</string>
+    <string name="success_item_added">Item added to wardrobe!</string>
+    
+    <!-- Wardrobe Screen -->
+    <string name="wardrobe_title">My Wardrobe</string>
+    <string name="no_items">No items in wardrobe yet. Add some clothes!</string>
+    <string name="delete_item">Delete</string>
+    <string name="item_deleted">Item deleted</string>
+    
+    <!-- Suggestions Screen -->
+    <string name="suggestions_title">Outfit Suggestions</string>
+    <string name="match_score">Match Score: %d%%</string>
+    <string name="no_suggestions">Add more items to get outfit suggestions!</string>
+    <string name="need_more_items">You need at least one top and one bottom to generate suggestions.</string>
+    
+    <!-- AI Outfit Suggestion Screen -->
+    <string name="ai_suggestions_title">AI Outfit Suggestions</string>
+    <string name="ai_get_suggestions">Get AI Suggestions</string>
+    
+    <!-- Spinner Arrays -->
+    <string-array name="occasion_options">
+        <item>Select Occasion</item>
+        <item>Wedding</item>
+        <item>Casual Outing</item>
+        <item>Dinner Date</item>
+        <item>Business Meeting</item>
+        <item>Party / Celebration</item>
+        <item>Formal Event</item>
+        <item>Everyday Wear</item>
+        <item>Sports / Gym</item>
+        <item>Travel</item>
+    </string-array>
+
+    <string-array name="climate_options">
+        <item>Select Climate</item>
+        <item>Hot / Summer</item>
+        <item>Cold / Winter</item>
+        <item>Rainy / Wet</item>
+        <item>Mild / Spring</item>
+        <item>Cool / Autumn</item>
+        <item>Humid</item>
+        <item>Dry</item>
+    </string-array>
+
+    <string-array name="budget_options">
+        <item>Any Budget</item>
+        <item>Budget-Friendly ($)</item>
+        <item>Moderate ($$)</item>
+        <item>High-End ($$$)</item>
+        <item>Luxury ($$$$)</item>
+    </string-array>
+</resources>

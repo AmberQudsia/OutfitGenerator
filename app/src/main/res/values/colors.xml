@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Primary Colors - Vibrant Indigo -->
+    <color name="primary">#6366F1</color>
+    <color name="primary_dark">#4F46E5</color>
+    <color name="primary_light">#818CF8</color>
+    <color name="primary_variant">#8B5CF6</color>
+    
+    <!-- Accent Colors - Pink/Magenta -->
+    <color name="accent">#EC4899</color>
+    <color name="accent_light">#F472B6</color>
+    <color name="accent_dark">#DB2777</color>
+    
+    <!-- Secondary Colors - Purple/Teal -->
+    <color name="secondary">#A855F7</color>
+    <color name="secondary_light">#C084FC</color>
+    <color name="tertiary">#14B8A6</color>
+    <color name="tertiary_light">#5EEAD4</color>
+    
+    <!-- Background Colors - Light Theme -->
+    <color name="background">#FAFAFA</color>
+    <color name="background_light">#FFFFFF</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F5F5F5</color>
+    
+    <!-- Text Colors - Light Theme -->
+    <color name="text_primary">#1F2937</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="text_on_primary">#FFFFFF</color>
+    <color name="text_on_accent">#FFFFFF</color>
+    
+    <!-- Status Colors -->
+    <color name="error">#EF4444</color>
+    <color name="error_light">#FEE2E2</color>
+    <color name="success">#10B981</color>
+    <color name="success_light">#D1FAE5</color>
+    <color name="warning">#F59E0B</color>
+    <color name="info">#3B82F6</color>
+    
+    <!-- Card Colors -->
+    <color name="card_background">#FFFFFF</color>
+    <color name="card_elevated">#FFFFFF</color>
+    
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#6366F1</color>
+    <color name="gradient_mid">#A855F7</color>
+    <color name="gradient_end">#EC4899</color>
+    <color name="gradient_teal_start">#14B8A6</color>
+    <color name="gradient_teal_end">#6366F1</color>
+    <color name="gradient_purple_start">#8B5CF6</color>
+    <color name="gradient_purple_end">#EC4899</color>
+    
+    <!-- Login Screen Colors -->
+    <color name="neon_cyan">#00E5B4</color>
+    <color name="dark_blue">#0B4F6C</color>
+    <color name="dark_blue_dark">#01394C</color>
+</resources>

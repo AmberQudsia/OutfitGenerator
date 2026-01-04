@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background Gradient -->
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:angle="135"
+                android:startColor="#6366F1"
+                android:centerColor="#A855F7"
+                android:endColor="#EC4899"
+                android:type="linear" />
+        </shape>
+    </item>
+    
+    <!-- You can uncomment this if you want to use an image instead
+    <item>
+        <bitmap
+            android:src="@drawable/your_background_image"
+            android:gravity="fill" />
+    </item>
+    -->
+</layer-list>
+
+

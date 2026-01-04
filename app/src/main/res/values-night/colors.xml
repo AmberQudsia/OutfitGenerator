@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Primary Colors - Brighter Indigo for Dark Theme -->
+    <color name="primary">#818CF8</color>
+    <color name="primary_dark">#6366F1</color>
+    <color name="primary_light">#A5B4FC</color>
+    <color name="primary_variant">#A78BFA</color>
+    
+    <!-- Accent Colors - Vibrant Pink for Dark Theme -->
+    <color name="accent">#F472B6</color>
+    <color name="accent_light">#F9A8D4</color>
+    <color name="accent_dark">#EC4899</color>
+    
+    <!-- Secondary Colors - Brighter for Dark Theme -->
+    <color name="secondary">#C084FC</color>
+    <color name="secondary_light">#D8B4FE</color>
+    <color name="tertiary">#5EEAD4</color>
+    <color name="tertiary_light">#99F6E4</color>
+    
+    <!-- Background Colors - Dark Theme -->
+    <color name="background">#121212</color>
+    <color name="background_light">#1E1E1E</color>
+    <color name="surface">#1E1E1E</color>
+    <color name="surface_variant">#2D2D2D</color>
+    
+    <!-- Text Colors - Dark Theme -->
+    <color name="text_primary">#F5F5F5</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <color name="text_on_primary">#FFFFFF</color>
+    <color name="text_on_accent">#FFFFFF</color>
+    
+    <!-- Status Colors - Adjusted for Dark Theme -->
+    <color name="error">#FF6B6B</color>
+    <color name="error_light">#4A1F1F</color>
+    <color name="success">#4ADE80</color>
+    <color name="success_light">#1F3A2F</color>
+    <color name="warning">#FBBF24</color>
+    <color name="info">#60A5FA</color>
+    
+    <!-- Card Colors - Dark Theme -->
+    <color name="card_background">#2D2D2D</color>
+    <color name="card_elevated">#3A3A3A</color>
+    
+    <!-- Gradient Colors - Brighter for Dark Theme -->
+    <color name="gradient_start">#818CF8</color>
+    <color name="gradient_mid">#C084FC</color>
+    <color name="gradient_end">#F472B6</color>
+    <color name="gradient_teal_start">#5EEAD4</color>
+    <color name="gradient_teal_end">#818CF8</color>
+    <color name="gradient_purple_start">#A78BFA</color>
+    <color name="gradient_purple_end">#F472B6</color>
+</resources>
+
